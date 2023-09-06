@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kempy2705
-- 👀 I’m interested in all things coding! Particularly OOP and Python
-- 🌱 I’m currently learning ... C# / OOP
-- 💞️ I’m looking to collaborate on ... pretty much anything. Just keen to learn!
+- 👀 Passionate about Web Development and consistently improving my Software Development Skills.
+- 🌱 I’m currently learning ... Javascript / OOP
 - 📫 How to reach me ... drdkempson@live.com.au
 
 <!---
