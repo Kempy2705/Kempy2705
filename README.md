@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kempy2705
 - 👀 Passionate about Web Development and consistently improving my Software Development Skills.
-- 🌱 I’m currently learning ... Javascript / OOP
+- 🌱 I’m currently learning ... Javascript / OOP / React / Redux
 - 📫 How to reach me ... drdkempson@live.com.au
 
 <!---
